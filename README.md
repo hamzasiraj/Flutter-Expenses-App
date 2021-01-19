@@ -1,4 +1,4 @@
-# expenses
+# expenses App made by Hamza Siraj
 
 A new Flutter project.
 
